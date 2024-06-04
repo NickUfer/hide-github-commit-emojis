@@ -1,16 +1,19 @@
 # Hide Github Commit Emojis
 A Tampermonkey / Violentmonkey userscript that hides emojis from commit messages on github.
 
-<div style="display: flex; gap: 2rem">
-  <div style="display: flex; flex-direction: column">
-    <h3>Before</h3>
-    <img src="./docs/assets/before.png" alt="Image Before">
-  </div>
-  <div style="display: flex; flex-direction: column">
-    <h3>After</h3>
-    <img src="./docs/assets/after.png" alt="Image After2">
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <h3>Before</h3>
+      <img src="./docs/assets/before.png" alt="Image Before">
+    </td>
+    <td style="vertical-align: top;">
+      <h3>After</h3>
+      <img src="./docs/assets/after.png" alt="Image After">
+    </td>
+  </tr>
+</table>
+
 
 ## Prerequisites
 
