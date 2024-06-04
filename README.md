@@ -3,13 +3,14 @@ A Tampermonkey / Violentmonkey userscript that hides emojis from commit messages
 
 <table>
   <tr>
-    <td style="vertical-align: top;">
+    <td valign="top">
       <h3>Before</h3>
       <img src="./docs/assets/before.png" alt="Image Before">
     </td>
-    <td style="vertical-align: top;">
+    <td valign="top">
       <h3>After</h3>
       <img src="./docs/assets/after.png" alt="Image After">
+      <br>
     </td>
   </tr>
 </table>
