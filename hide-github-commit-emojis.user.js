@@ -9,8 +9,8 @@
 // @source       https://github.com/NickUfer/hide-github-commit-emojis
 // @supportURL   https://github.com/NickUfer/hide-github-commit-emojis/issues
 // @match        https://github.com/*
-// @updateURL    https://raw.githubusercontent.com/NickUfer/hide-github-commit-emojis/main/hide-github-commit-emojis.user.js
-// @downloadURL  https://raw.githubusercontent.com/NickUfer/hide-github-commit-emojis/main/hide-github-commit-emojis.user.js
+// @updateURL    https://github.com/NickUfer/hide-github-commit-emojis/raw/main/hide-github-commit-emojis.user.js
+// @downloadURL  https://github.com/NickUfer/hide-github-commit-emojis/raw/main/hide-github-commit-emojis.user.js
 // @copyright    MIT License
 // @grant        none
 // ==/UserScript==
